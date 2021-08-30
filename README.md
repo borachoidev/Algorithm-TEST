@@ -1,52 +1,10 @@
 # Algorithm TEST
+알고리즘한테 언제까지 털릴거야 ...
 
-알린이에서 알른으로 성장하기!
+<img src="https://media.giphy.com/media/7SF5scGB2AFrgsXP63/giphy.gif" alt="drawing" width="230"/>
+  
+이제 안털릴꺼야!!!!   
+<img src="https://media.giphy.com/media/l2Sq1cZMApXtuEHJK/giphy.gif" alt="drawing" width="200"/>  
+부셔버리자 .... 알. 고. 리. 즘!!
 
-## BOJ
-
-### solved.ac CLASS 획득하기
-
-- [ ] CLASS1
-- [ ] CLASS2
-- [ ] CLASS3
-- [ ] CLASS4
-- [ ] CLASS5
-
-## 프로그래머스
-
-### 레벨별
-
-- [ ] Level1
-- [ ] Level2
-- [ ] Level3
-
-### 고득점 키트
-
-- [ ] 해시
-- [ ] 스택/큐
-- [ ] 힙
-- [ ] 정렬
-- [ ] 완전탐색
-- [ ] 탐욕법
-- [ ] 동적계획법
-- [ ] 깊이/너비 우선탐색
-- [ ] 이분탐색
-- [ ] 그래프
-
-## 코드페스티벌
-
-### JS100
-
-- [x] 초급
-- [ ] 중급
-- [ ] 고급
-
-### 눈떠보니 코테전날
-
-- [ ] 1번
-- [ ] 2번
-- [ ] 3번
-- [ ] 4번
-- [ ] 5번
-- [ ] 6번
-- [ ] 7번
+🍫[카카오코테대비](https://catkin-alphabet-7a7.notion.site/KAKAO-BLIND-3-fc2d4d3080cf4f3099b2b947c431887d)
