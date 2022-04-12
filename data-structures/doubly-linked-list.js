@@ -92,6 +92,15 @@ class DoublyLinkedList {
       return current
     }
   }
+
+  set(index, val) {
+    const founNode = this.get(index)
+    if (founNode !== null) {
+      founNode.val = val
+      return true
+    }
+    return false
+  }
 }
 
 const dll = new DoublyLinkedList()
